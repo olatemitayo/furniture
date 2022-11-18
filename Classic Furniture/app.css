@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(224, 182, 127);
+}
+.lnkColor,
+.copyRight {
+  color: #000;
+}
+.lnkColor:hover {
+  color: green;
+}
+.card-img-top {
+  width: ;
+}
+.copyRight {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+.cardBorder {
+  border: none !important;
+  outline: none !important;
+  box-shadow: 10px 10px 5px 0px rgba(77, 160, 77, 0.219);
+}
+.rowYeah {
+  /* margin: auto; */
+  /* margin-left: 70px; */
+}
+.buttonGreen {
+  background-color: Green;
+  border-bottom: 1px green solid;
+  color: white;
+  border: none !important;
+  box-shadow: 10px 10px 5px 0px rgba(77, 160, 77, 0.196);
+  outline: none !important;
+}
+.buttonGreen:hover {
+  color: green;
+  background-color: whitesmoke;
+  border: 2px solid green;
+}
+.buttonGreen:visited {
+  background-color: Green;
+  border-bottom: 1px green solid;
+  color: white;
+  border: none;
+  outline: none;
+}
+.textSuccess {
+  font-weight: bold;
+}
+
+/* @media (min-width: 300px) and (max-width: 500px) {
+  main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
